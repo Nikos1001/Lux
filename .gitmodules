@@ -1,9 +1,0 @@
-[submodule "libs/glfw"]
-	path = libs/glfw
-	url = https://github.com/glfw/glfw.git
-[submodule "libs/glewlib"]
-	path = libs/glewlib
-	url = https://github.com/Perlmint/glew-cmake.git
-[submodule "libs/piccolo"]
-	path = libs/piccolo
-	url = https://github.com/PiccoloLang/piccolo.git
