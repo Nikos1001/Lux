@@ -1,0 +1,20 @@
+
+import 'io' as io
+import 'lux' as lux
+
+const loop = fn dt -> {
+    lux.pushSphere(
+        0, 0, -2,
+        0.5,
+        1, 0, 0,
+        0, 0,
+        0, 0, 0
+    )
+    lux.pushSphere(
+        0, -1000.5, -2,
+        1000,
+        0.5, 0.5, 0.5,
+        0, 0,
+        0, 0, 0
+    )
+}

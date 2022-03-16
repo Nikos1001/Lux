@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.s": "kickassembler",
+        "glfw3.h": "c",
+        "glew.h": "c"
+    }
+}
